@@ -1,0 +1,14 @@
+{
+	"geode": "4.0.1",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "rgc_exists.unlock_main_levels",
+	"name": "Unlock Main Levels",
+	"version": "v1.0.0",
+	"developer": "RGC Exists",
+	"description": "Unlock the locked main demon levels, even if you don't have enough secret coins."
+}
