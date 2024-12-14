@@ -13,7 +13,7 @@ class $modify(GameStatsManager) {
 		if (isCheckingLocked) {
 			return 999;
 		}
-		GameStatsManager::getStat(p0);
+		return GameStatsManager::getStat(p0);
 	}
 };
 class $modify(LevelPage) {
