@@ -10,5 +10,6 @@
 	"name": "Unlock Main Levels",
 	"version": "v1.0.0",
 	"developer": "RGC Exists",
-	"description": "Unlock the locked main demon levels, even if you don't have enough secret coins."
+	"description": "Unlock the locked main demon levels, even if you don't have enough secret coins.",
+	"tags": [ "offline", "customization" ]
 }
